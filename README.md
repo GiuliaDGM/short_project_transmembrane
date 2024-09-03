@@ -1,6 +1,6 @@
 # Projet Court : ASSIGNATION ET DETECTION DES PARTIES TRANSMEMBRANAIRES D'UNE PROTEINE
 
-Describe breifly the project
+Describe briefly the project
 
 ## Download this repository
 ```bash
