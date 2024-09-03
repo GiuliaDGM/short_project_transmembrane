@@ -3,7 +3,9 @@
 Describe breifly the project
 
 ## Download this repository
-- code
+```bash
+git clone https://github.com/SneakyWaccoon/projet_court.com
+```
 
 ## Setup Conda
 
