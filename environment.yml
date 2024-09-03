@@ -1,0 +1,15 @@
+name: projet_court_transmembranaire
+channels:
+    - conda-forge
+    - salilab
+    - defaults
+dependencies:
+    - python
+    - biopython
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - jupyterlab
+    - mdanalysis
+    - dssp
