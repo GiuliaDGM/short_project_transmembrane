@@ -5,8 +5,19 @@ Describe breifly the project
 ## Download this repository
 - code
 
-## Setup
+## Setup Conda
 
-Install Conda
+Install [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 Create Conda environment
+```bash
+conda env create -f environment.yml
+```
+
+Activate Conda environment
+```bash
+conda activate projet_court_transmembranaire
+```
+
+## Setup Naccess
+
