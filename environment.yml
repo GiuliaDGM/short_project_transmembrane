@@ -2,7 +2,7 @@ name: projet_court_transmembranaire
 channels:
     - conda-forge
     - salilab
-    - defaults
+    - nodefaults
 dependencies:
     - python
     - biopython
