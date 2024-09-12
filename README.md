@@ -71,17 +71,8 @@ To better understand how the protein is analyzed using the Fibonacci sampling me
 
 - **Python**: The main language for the tool.
 - **Biopython**: For parsing PDB files and running DSSP.
-- **NumPy**: For numerical operations and array handling.
-- **MDAnalysis**: For analyzing molecular dynamics simulations.
+- **NumPy**: For numerical operations and array handling..
 - **Multiprocessing**: For efficient parallel processing.
 
 All dependencies are managed via Conda, and the full environment specification can be found in the `environment.yml` file.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides detailed instructions on setting up, running the project, and opening the PyMOL visualization. Let me know if any further adjustments are needed!
 
