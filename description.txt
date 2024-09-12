@@ -1,4 +1,5 @@
-Ce dépôt sera utilisé pour le TP1 du cours Cproj.
+Transmembrane Region Detection Tool
+A computational tool for detecting and assigning transmembrane regions in protein structures using hydrophobicity analysis and solvent accessibility. Includes visualization via PyMOL and the ability to analyze protein slices along multiple axes using Fibonacci sphere sampling.
 
 Nom : Di Gennaro
 Prénom : Giulia
