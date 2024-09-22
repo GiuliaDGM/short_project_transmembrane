@@ -9,7 +9,7 @@ This project focuses on detecting and assigning the transmembrane regions of a p
 
 ## Download the Repository
 ```bash
-git clone https://github.com/SneakyWaccoon/projet_court.com
+git clone https://github.com/SneakyWaccoon/short_project_transmembrane.com
 ```
 
 ## Setup Conda Environment
